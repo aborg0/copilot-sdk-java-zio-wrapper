@@ -15,7 +15,6 @@ project/project/
 *.iml
 *.ipr
 *.iws
-*.sbt
 *.log
 *.tmp
 *.cache
@@ -34,3 +33,4 @@ project/project/
 *.code-workspace
 *.env
 docs-out/
+**/metals.sbt
